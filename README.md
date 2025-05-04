@@ -1,11 +1,11 @@
 # Tolulope-Ola
-# Hi, I&#39;m [Tolulope Ola]! ��
+# Hi, I&#39;m Tolulope Ola! ��
 ### �� About Me
 - ��️ Cybersecurity Analyst
 - �� Exploring Network security, threat Intelligence and Securiity Compliance
 - �� Consistently learning and delving intovarious defense tactics to combat Cyber threats ...
 ### �� My Work
-- �� [LinkedIn Profile](https://linkedin.com/in/tolulope_Ola/)
+- �� [LinkedIn Profile]https://linkedin.com/in/tolulope_Ola/
 - �� [Resume](https://1drv.ms/b/s!AtpCzj84oVg7gVIDvlqLIf6_kqnb?e=PSjvPW) 
 ### ��️ **Skills**: Monitoring and  Threat detection 
 - **Technical Expertise**: Web &amp; Log Analysis, Incident Response,
